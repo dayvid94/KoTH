@@ -1,0 +1,6 @@
+#include "VVS\menu.h"
+
+class CfgFunctions
+{
+ #include "VVS\Functions.h"
+};
